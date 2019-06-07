@@ -1,0 +1,3 @@
+2019/05/25 01:24:08:404 Postman-1558501702928 Swapping the old app with new one
+2019/05/25 01:24:08:431 Postman-1558501702928 Swapping done
+2019/05/25 01:24:08:451 Postman-1558501702928 Parent process is alive, killing it now
